@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/output_1345985253"
+    >
+
+    <Button
+        android:id="@+id/sbutton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="홈페이지가기 버튼입니다"
+        android:textColor="#9C27B0" />
+
+    <Button
+        android:id="@+id/sbutton2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="전화걸기 버튼입니다"
+        android:textColor="#9C27B0" />
+
+    <Button
+        android:id="@+id/sbutton3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="갤러리 보기버튼입니다"
+        android:textColor="#9C27B0" />
+
+    <Button
+        android:id="@+id/sbutton4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="끝내기 버튼입니다"
+        android:textColor="#9C27B0" />
+
+    <Button
+        android:id="@+id/sbutton5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="박소리버튼입니다"
+        android:textColor="#9C27B0" />
+
+</LinearLayout>
